@@ -1,5 +1,5 @@
 {
-  "name": "newman-html-file-upload",
+  "name": "simple-newman-html-file-upload-to-s3",
   "version": "1.0.0",
   "description": "A basic example of uploading a Newman HTML Report to an S3 bucket",
   "main": "file_upload_practice.js",
