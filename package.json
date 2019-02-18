@@ -12,6 +12,6 @@
   "dependencies": {
     "aws-sdk": "^2.395.0",
     "newman": "^4.3.1",
-    "newman-reporter-htmlextra": "^1.4.0"
+    "newman-reporter-htmlextra": "^1.5.3"
   }
 }
